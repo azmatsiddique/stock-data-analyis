@@ -1,7 +1,7 @@
 # stock-data-analyis
 Stock market data of various companies is analyzed with the help of shell scripts that run on Hadoop cluster which tells us about the company’s current position in the market and various other factors.  The process of analyzing is made automated with the help of shell scripts in which analyzing queries are pre-written.  This project aims at providing simple and easy analysis of various Stocks as per the user's requirement
 
-GUIDELINES TO RUN STOCK MARKET ANALYSIS
+#GUIDELINES TO RUN STOCK MARKET ANALYSIS
 SOFTWARE REQUIREMENTS-
 1.	You need a linux based platform preferably Ubuntu to run Hadoop
 2.	Install the Apache Hadoop into the system along with the packages –
@@ -13,7 +13,7 @@ SOFTWARE REQUIREMENTS-
 3.	Setup the cluster and all the above listed packages.
 4.	Check if all the packages are in running conditions or not.
 
-BACKGROUND INFORMATION-
+#BACKGROUND INFORMATION-
 1.	All the packages should be in running conditions.
 2.	Setup the Username and Password in MySql as “root”.
 3.	This is a Script-based Project.
@@ -22,7 +22,7 @@ BACKGROUND INFORMATION-
 1.	Financial Analysis
 2.	Technical Analysis
 
-STEP-BY-STEP STOCK MARKET ANALYSIS
+#STEP-BY-STEP STOCK MARKET ANALYSIS
 1.	Unzip all the files and folders.
 2.	Copy the records.csv file into the HDFS
 3.	Now in MySql, create a Database named “market”.
