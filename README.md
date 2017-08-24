@@ -1,0 +1,2 @@
+# stock-data-analyis
+Stock market data of various companies is analyzed with the help of shell scripts that run on Hadoop cluster which tells us about the company’s current position in the market and various other factors.  The process of analyzing is made automated with the help of shell scripts in which analyzing queries are pre-written.  This project aims at providing simple and easy analysis of various Stocks as per the user's requirement
