@@ -1,0 +1,19 @@
+#!/bin/bash
+clear
+ch=
+echo "Choose the type of analysis to be performed"
+echo "1 Financial Analysis"
+echo "2 Technical Analysis"
+read ch
+case $ch in
+     1) ./financial.sh 
+
+EOF
+
+;;
+     2) ./technical.sh 
+
+EOF
+
+esac
+
